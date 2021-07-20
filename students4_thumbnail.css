@@ -81,6 +81,18 @@ li {
 }
 
 .gallery {
+  height: 18%;
+  width: 18%;
+  float:left;
+  display: block;
+  border-radius: 20px;
+  margin-top: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+  position: relative;
+}
+
+.gallery2 {
   height: 10%;
   width: 10%;
   float:left;
@@ -92,12 +104,17 @@ li {
   position: relative;
 }
 
-.pics {
+.pics2 {
   margin-left: 135px;
   
 }
 
-.pics img:hover {opacity: 10;}
+.pics {
+  margin-left: 40px;
+  margin-top: 14%;
+}
+
+.pics .gallery:hover {opacity: 1px;}
 
 .viewer {
   width:560px;
