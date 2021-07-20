@@ -148,3 +148,15 @@ footer {
   color: white;
   text-align: center;
 }
+
+h1 {
+  /*float:;*/
+  margin-top: 14px;
+  margin-bottom: 6px;
+  text-align: center;
+  font-family: bradley hand;
+  letter-spacing: 34px;
+  color: rgba(0, 0, 0, 0.6);
+  margin-left: 528px;
+  position: absolute;
+}
